@@ -1,0 +1,7 @@
+A:\repositories\up_7\up_7\up_7\bin\Debug\up_7.exe.config
+A:\repositories\up_7\up_7\up_7\bin\Debug\up_7.exe
+A:\repositories\up_7\up_7\up_7\bin\Debug\up_7.pdb
+A:\repositories\up_7\up_7\up_7\obj\Debug\up_7.csprojAssemblyReference.cache
+A:\repositories\up_7\up_7\up_7\obj\Debug\up_7.csproj.CoreCompileInputs.cache
+A:\repositories\up_7\up_7\up_7\obj\Debug\up_7.exe
+A:\repositories\up_7\up_7\up_7\obj\Debug\up_7.pdb
